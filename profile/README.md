@@ -140,18 +140,28 @@ wsgi.py   → Gunicorn-Einstieg
 
 ---
 
-## Aktuelle Richtung
+## Roundmap
 
-Wir konzentrieren uns aktuell auf:
+Wir arbeiten ununterbrochen an unsere Meilensteine:
 
-* den 3D-Editor
-* die stabile Chunk-Welt
-* die Anbindung der Library
-* Geodaten- und Layer-Systeme
-* eine einheitliche Struktur für alle Services
+### Roundmap bis Dezember 2026
+⬜ Version 0.5.0 des Download-Client für deinen Computer.
+⬜ Webseite/Plattform mit hochladen/download von 3D-Schematics/Models.
+⬜ Kostenlosen Geodaten-API Service.
+⬜ Integration des Sprachsystems (36+ Sprachen).
+⬜ VPLIB-Generator zum Erstellen von Modellen.
+⬜ Version 0.5.0 für die kostenlose Library der Blöcke und Modelle.
+⬜ Cloud Möglichkeit für große Unternehmen
+⬜ Ausgabe von 3D in 2D in Baupläne (Version 0.1.0 stark vereinfacht)
 
-Der nächste große Schritt ist die Verbindung der 3D-Welt mit Geodaten.
+Wir arbeiten hart daran, die erste Version zu veröffentlichen. Dies nutzen wir als Grundlage, um den Dienst immer weiter auszubauen und weiterzuentwickeln.
+Es ist uns wichtig, dass der Dienst so gebaut ist, dass er kostenlos richtig benutzt werden kann. Vorbild ist hier DaVinci. Man soll 95% aller Tools kostenlos nutzen können
+und über einen Einmalkauf die restlichen 5% freischalten. Wir haben uns daher entschieden, dass alles von der Entwurfsplanung bis hin zur Ausführungsplanung kostenlos sein wird.
+Stell dir vor, du bist ein Minecraft-Bauteam und unser Programm ermöglicht es dir, ohne Kenntnisse von Baurecht und Bau echte Baupläne wie ein Architekt oder Ingenieur zu erstellen.
 
+Wenn du weiter gehen willst an Ausschreibungen/Leistungsverzeichnisse oder Statik oder Energieberechnungen erstellen willst, dann kannst du dies über einen Einmalkauf abdecken.
+So können wir organisch wachsen und die Funktionen immer weiter entwickeln und noch besser für alle zu machen. Ein solches Projekt erfordert Millionen an Stunden Arbeit
+und erfordert enorme Kenntnisse im Architektur- und Ingenieurbau, um es auf einfache Funktionen herunterzubrechen, dass es jeder nutzen kann
 ---
 
 ## Kurzfassung
